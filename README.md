@@ -1,85 +1,98 @@
 # Mohamed Ashraf Zakaria
 
 **.NET Back-End Developer**  
-Cairo, Egypt  
+📍 Cairo, Egypt  
 📧 mohamedashraf20191700504@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-ashraf504) | [GitHub](https://github.com/MohamedAshr2f)
+🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-ashraf504/)  
+🔗 [GitHub](https://github.com/MohamedAshr2f)
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-Junior .NET Developer with hands-on experience in building modern web and desktop applications using the .NET stack. Passionate about problem-solving, clean architecture, and learning new technologies. 
+Junior .NET Developer passionate about building clean, scalable, and high-performance applications using the Microsoft technology stack. Skilled in back-end development, real-time communication, and clean architecture. Always eager to learn and grow in collaborative, innovative teams.
 
 ---
 
-## 🛠️ Technical Skills
+## 🧠 Technical Skills
 
-- **Languages & Frameworks:** C#, .NET Core, ASP.NET MVC, Web API, JavaScript, HTML, CSS
-- **Databases:** SQL Server, Entity Framework, LINQ
-- **Architecture & Patterns:** OOP, SOLID, Design Patterns, Microservices
-- **Tools:** Git & GitHub, Docker, Unit Testing
-- **Real-Time & Messaging:** SignalR, gRPC, JWT Authentication
-- **Others:** SDLC, Agile, REST APIs
+- **Languages & Frameworks:** C#, ASP.NET Core, ASP.NET MVC, Web API
+- **Front-End:** HTML, CSS, JavaScript, Bootstrap
+- **Real-Time & Communication:** SignalR, gRPC, JWT Authentication
+- **Tools:** Git, GitHub, Docker, Postman, Swagger
+- **Database:** SQL Server, Entity Framework, LINQ
+- **Architecture:** Clean Architecture, SOLID Principles, Design Patterns
+- **Other:** Unit Testing, SDLC
 
 ---
 
 ## 🚀 Projects
 
 ### 🎓 Student Management System  
-A system for managing student records, course enrollments, and academic performance.  
-🔗 [GitHub](https://github.com/KONOZGAMAL/RealHouse) | 🔗 [Live Demo](https://real-house-blush.vercel.app/)  
-**Tech:** ASP.NET Core, Web API, Entity Framework, SQL Server, SignalR, JWT
+Web app for managing student records with authentication and real-time notifications.  
+**Tech:** ASP.NET Core, Web API, EF, SQL Server, SignalR, JWT, Bootstrap
 
 ---
 
 ### 🛒 E-Commerce System  
-Scalable platform with shopping cart, order processing, and secure payment.  
-🔗 [GitHub](https://github.com/KONOZGAMAL/FOOD_ECOMMERCE) | 🔗 [Live Demo](https://food-ecommerce-142b3.web.app/)  
-**Tech:** ASP.NET Core, gRPC, Entity Framework, SQL Server, JWT
+Scalable platform with microservices architecture and secure payments.  
+**Tech:** ASP.NET Core, Web API, EF, SQL Server, gRPC, JWT, Bootstrap
 
 ---
 
 ### 💬 Real-Time Chat App  
-Group/private messaging system with real-time updates and media sharing.  
-🔗 [GitHub](https://github.com/KONOZGAMAL/React-Admin-Dashboard) | 🔗 [Live Demo](https://react-admin-dashboard-tau-nine.vercel.app/)  
-**Tech:** ASP.NET Core, SignalR, SQL Server, JWT
+Private/group chat with real-time updates and media sharing.  
+**Tech:** ASP.NET Core, Web API, SignalR, EF, SQL Server, JWT, Bootstrap
 
 ---
 
 ### 🏋️‍♂️ Fitness Tracking System  
-Track workouts and progress with real-time recommendations and analytics.  
-🔗 [GitHub](https://github.com/KONOZGAMAL/JS-E-commerce-Project) | 🔗 [Live Demo](https://js-e-commerce-project.vercel.app/)  
-**Tech:** ASP.NET Core, Entity Framework, SignalR, JWT
+Personalized fitness app with 500+ users and optimized performance.  
+**Achievements:**  
+- Increased user retention by 25%  
+- Reduced DB queries by 50%  
+**Tech:** ASP.NET Core, EF, SQL Server, SignalR, JWT, Bootstrap
+
+---
+
+### 🎮 Game Store (ASP.NET MVC CRUD)  
+Full CRUD game catalog with clean MVC patterns and validation.  
+**Tech:** ASP.NET MVC, C#, EF, SQL Server, Bootstrap
 
 ---
 
 ## 🎓 Education
 
-**B.Sc. in Computer Science**  
-Ain Shams University, Egypt  
-*Oct 2019 – June 2023 | Grade: C+*
+**B.Sc. in Information Systems**  
+Computer and Information Sciences, Ain Shams University  
+📅 Oct 2019 – June 2023 | 🎓 Grade: C+
 
 ---
 
-## 🧠 Soft Skills
+## 💼 Experience
 
-- Problem Solving & Critical Thinking
-- Communication & Collaboration
-- Time Management & Multitasking
-- Creativity & Adaptability
-- Self-Learning & Resilience
+**Freelance .NET Developer**  
+- Delivered 4+ full-stack .NET applications for real-world clients  
+- Reduced SQL load time by 55%  
+- Collaborated with developers on scalable solutions
+
+---
+
+## 🌟 Soft Skills
+
+Communication • Teamwork • Critical Thinking • Time Management  
+Adaptability • Problem Solving • Creativity • Decision Making  
+Work Ethic • Multitasking • Self-learning • Resilience
 
 ---
 
 ## 🌐 Languages
 
-- Arabic: Native  
-- English: Intermediate
+- **Arabic:** Native  
+- **English:** Proficient
 
 ---
 
-## 🤝 Let's Connect!
+## 📫 Contact
 
-Feel free to reach out for collaboration, freelance work, or just tech talk!  
-📧 mohamedashraf20191700504@gmail.com  
+If you're looking for a reliable junior .NET developer ready to grow and contribute—let's connect!
