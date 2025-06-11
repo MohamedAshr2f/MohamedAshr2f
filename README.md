@@ -1,6 +1,6 @@
-# Mohamed Ashraf Zakaria
+# Mohamed Ashraf Zakaria 👨‍💻
+## .NET Back-End Developer
 
-**.NET Back-End Developer**  
 📍 Cairo, Egypt  
 📧 mohamedashraf20191700504@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-ashraf504/)  
@@ -8,91 +8,78 @@
 
 ---
 
-## 👋 About Me
+### 👨‍💼 About Me
 
-Junior .NET Developer passionate about building clean, scalable, and high-performance applications using the Microsoft technology stack. Skilled in back-end development, real-time communication, and clean architecture. Always eager to learn and grow in collaborative, innovative teams.
+I’m a passionate and detail-oriented Back-End Developer specializing in ASP.NET Core (MVC & Web API) with practical experience building scalable and maintainable web applications. I have a strong foundation in Object-Oriented Programming, SOLID principles, and software architecture patterns.
 
----
-
-## 🧠 Technical Skills
-
-- **Languages & Frameworks:** C#, ASP.NET Core, ASP.NET MVC, Web API
-- **Front-End:** HTML, CSS, JavaScript, Bootstrap
-- **Real-Time & Communication:** SignalR, gRPC, JWT Authentication
-- **Tools:** Git, GitHub, Docker, Postman, Swagger
-- **Database:** SQL Server, Entity Framework, LINQ
-- **Architecture:** Clean Architecture, SOLID Principles, Design Patterns
-- **Other:** Unit Testing, SDLC
+I’m excited about clean code, modular architecture, and building useful systems that solve real-world problems.
 
 ---
 
-## 🚀 Projects
+### 💻 Technical Skills
 
-### 🎓 Student Management System  
-Web app for managing student records with authentication and real-time notifications.  
-**Tech:** ASP.NET Core, Web API, EF, SQL Server, SignalR, JWT, Bootstrap
-
----
-
-### 🛒 E-Commerce System  
-Scalable platform with microservices architecture and secure payments.  
-**Tech:** ASP.NET Core, Web API, EF, SQL Server, gRPC, JWT, Bootstrap
+- **Languages & Frameworks**: C#, ASP.NET Core, ASP.NET MVC, Web API, Java
+- **Database**: SQL Server, Entity Framework, LINQ
+- **Web**: HTML, CSS, JavaScript, Bootstrap
+- **Tools**: Git & GitHub, Postman, Swagger, Docker
+- **Architecture**: Clean Architecture, Design Patterns, SOLID Principles
+- **Authentication**: JWT Authentication, SignalR
+- **Testing**: Unit Testing
 
 ---
 
-### 💬 Real-Time Chat App  
-Private/group chat with real-time updates and media sharing.  
-**Tech:** ASP.NET Core, Web API, SignalR, EF, SQL Server, JWT, Bootstrap
+### 🚀 Projects
+
+#### 🎓 Student Management System
+A responsive web app to manage student records, course enrollments, and academic performance. Features role-based access for admins and students.
+
+**Tech Stack**: ASP.NET Core, Web API, SQL Server, Entity Framework, JWT, Bootstrap
 
 ---
 
-### 🏋️‍♂️ Fitness Tracking System  
-Personalized fitness app with 500+ users and optimized performance.  
-**Achievements:**  
-- Increased user retention by 25%  
-- Reduced DB queries by 50%  
-**Tech:** ASP.NET Core, EF, SQL Server, SignalR, JWT, Bootstrap
+#### 🛒 E-Commerce System
+A scalable e-commerce platform with product browsing, cart management, secure ordering, and admin tools. Built with clean architecture.
+
+**Tech Stack**: ASP.NET Core, Web API, SQL Server, Entity Framework, JWT, Bootstrap
 
 ---
 
-### 🎮 Game Store (ASP.NET MVC CRUD)  
-Full CRUD game catalog with clean MVC patterns and validation.  
-**Tech:** ASP.NET MVC, C#, EF, SQL Server, Bootstrap
+#### 🎮 Game Store – CRUD App
+A Game Store management system built using ASP.NET MVC that supports full CRUD operations and demonstrates essential patterns and validation.
+
+**Tech Stack**: ASP.NET MVC, Entity Framework, SQL Server, Bootstrap
 
 ---
 
-## 🎓 Education
+### 📚 Education
 
-**B.Sc. in Information Systems**  
-Computer and Information Sciences, Ain Shams University  
-📅 Oct 2019 – June 2023 | 🎓 Grade: C+
-
----
-
-## 💼 Experience
-
-**Freelance .NET Developer**  
-- Delivered 4+ full-stack .NET applications for real-world clients  
-- Reduced SQL load time by 55%  
-- Collaborated with developers on scalable solutions
+**B.Sc. in Computer and Information Sciences**  
+Ain Shams University, Egypt (2019–2023)  
+Grade: C+
 
 ---
 
-## 🌟 Soft Skills
+### 🏫 Experience
 
-Communication • Teamwork • Critical Thinking • Time Management  
-Adaptability • Problem Solving • Creativity • Decision Making  
-Work Ethic • Multitasking • Self-learning • Resilience
-
----
-
-## 🌐 Languages
-
-- **Arabic:** Native  
-- **English:** Proficient
+- **ITI** – Full-Stack .NET Development  
+- **ITI** – Cybersecurity  
+- **Ain Shams University** – Android Development using Java  
+- **Graduation Project** – Blood Donations Android App (Grade: A+)
 
 ---
 
-## 📫 Contact
+### 💡 Soft Skills
 
-If you're looking for a reliable junior .NET developer ready to grow and contribute—let's connect!
+Communication | Critical Thinking | Problem Solving | Teamwork | Adaptability | Attention to Detail | Self-learning | Presentation | Decision Making
+
+---
+
+### 🌐 Languages
+
+- Arabic: Native  
+- English: Proficient
+
+---
+
+_Always striving to learn, build, and grow as a developer._
+
