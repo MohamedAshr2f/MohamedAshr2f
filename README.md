@@ -7,7 +7,7 @@
 🔗 [GitHub](https://github.com/MohamedAshr2f)
 
 
-<a href="(https://drive.google.com/file/d/182w1Io89i_6BQ3pOAsHZrvRwRX--m-NY/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/182w1Io89i_6BQ3pOAsHZrvRwRX--m-NY/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-View_CV-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="View CV" />
 </a>
 
@@ -49,7 +49,8 @@ Includes email services via **MailKit & SMTP**, localization, logging, and xUnit
 ### 🎮 **Game Store — CRUD Application**
 A web-based CRUD system for managing a game catalog, demonstrating MVC design patterns, validation, and routing.
 
-**Tech Stack:** ASP.NET MVC, Entity Framework, SQL Server, Bootstrap
+**Tech Stack:** ASP.NET MVC, Entity Framework, SQL Server, Bootstrap  
+🔗 [GitHub Repository](https://github.com/MohamedAshr2f/Game-Store)
 
 ---
 
@@ -62,9 +63,7 @@ A web-based CRUD system for managing a game catalog, demonstrating MVC design pa
 
 ## 🎓 Education
 
-**B.Sc. in Computer and Information Sciences**  
-Ain Shams University, Egypt *(2019–2023)*  
-**Grade:** C+
+**B.Sc. in Computer and Information Sciences** Ain Shams University, Egypt *(2019–2023)* **Grade:** C+
 
 ---
 
