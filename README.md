@@ -1,10 +1,11 @@
 # 👨‍💻 Mohamed Ashraf Zakaria  
-### .NET Back-End Developer
+### Full-Stack Developer (.NET & Angular)
 
 📍 Cairo, Egypt  
 📧 mayoub921919@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-ashraf504/)  
 🔗 [GitHub](https://github.com/MohamedAshr2f)
+[![View CV](https://img.shields.io/badge/View%20CV-PDF-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/182w1Io89i_6BQ3pOAsHZrvRwRX--m-NY/view?usp=sharing)
 
 ---
 
