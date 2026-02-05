@@ -24,13 +24,13 @@ secure authentication, with a focus on clean code, performance, and maintainabil
 
 | Category | Skills |
 |-----------|--------|
-| **Languages & Frameworks** | C#, ASP.NET Core, ASP.NET MVC, Web API, Java |
-| **Database** | SQL Server, Entity Framework, LINQ, Dapper |
-| **Web** | HTML, CSS, JavaScript, Bootstrap |
-| **Architecture** | Clean Architecture, CQRS, Mediator Pattern, SOLID Principles, Design Patterns |
-| **Tools & DevOps** | Git, GitHub, Postman, Swagger, Docker |
-| **Authentication** | Identity, JWT Authentication, SignalR, MailKit, SMTP |
-| **Testing** | Unit Testing (xUnit) |
+| **Languages & Frameworks** | ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&logoColor=white) ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?logo=dotnet&logoColor=white) ![Web API](https://img.shields.io/badge/Web_API-512BD4?logo=dotnet&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) |
+| **Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) |
+| **Database & ORM** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white) ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?logo=dotnet&logoColor=white) ![LINQ](https://img.shields.io/badge/LINQ-512BD4?logo=dotnet&logoColor=white) ![Dapper](https://img.shields.io/badge/Dapper-000000?logo=databricks&logoColor=white) |
+| **Architecture** | 🧱 Clean Architecture • 🔁 CQRS • 🧩 Mediator Pattern • 🧠 SOLID Principles • 🏗 Design Patterns |
+| **Tools & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
+| **Authentication & Services** | 🔐 Identity • 🎟 JWT Authentication • 📡 SignalR • ✉️ MailKit • 📬 SMTP |
+| **Testing** | 🧪 Unit Testing (xUnit) |
 
 ---
 
