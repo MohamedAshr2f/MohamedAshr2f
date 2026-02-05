@@ -50,7 +50,7 @@ Includes email services via **MailKit & SMTP**, localization, logging, and xUnit
 A web-based CRUD system for managing a game catalog, demonstrating MVC design patterns, validation, and routing.
 
 **Tech Stack:** ASP.NET MVC, Entity Framework, SQL Server, Bootstrap
-[GitHub Repository](https://github.com/MohamedAshr2f/Game-Store)
+
 ---
 
 ### 🩸 Blood Donation Mobile App (Graduation Project)
