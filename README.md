@@ -5,17 +5,18 @@
 📧 mayoub921919@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-ashraf504/)  
 🔗 [GitHub](https://github.com/MohamedAshr2f)
-[![View CV](https://img.shields.io/badge/View%20CV-PDF-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/182w1Io89i_6BQ3pOAsHZrvRwRX--m-NY/view?usp=sharing)
+
+
+<a href="(https://drive.google.com/file/d/182w1Io89i_6BQ3pOAsHZrvRwRX--m-NY/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-View_CV-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="View CV" />
+</a>
 
 ---
 
 ## 🧠 About Me
-
-I’m a passionate and detail-oriented **.NET Back-End Developer** specializing in **ASP.NET Core (MVC & Web API)** with hands-on experience in building scalable, maintainable, and high-performance web applications.
-
-I have a solid foundation in **Object-Oriented Programming**, **SOLID principles**, and **Clean Architecture**, and I enjoy designing modular systems that solve real-world business problems efficiently.
-
-I’m constantly improving my skills and exploring new technologies to write cleaner, smarter, and more reliable code.
+**Full-Stack Angular** / .NET Developer with hands-on experience building scalable web applications using
+ASP.NET Core, SQL databases and modern **Angular**. Strong foundation in **Clean Architecture**, RESTful APIs, and
+secure authentication, with a focus on clean code, performance, and maintainability.
 
 ---
 
@@ -52,6 +53,13 @@ A web-based CRUD system for managing a game catalog, demonstrating MVC design pa
 
 ---
 
+### 🩸 Blood Donation Mobile App (Graduation Project)
+**Tech:** Java, Firebase, XML, Python  
+- Android app to facilitate blood donations
+- Real-time database using Firebase  
+- **Grade:** A+
+---
+
 ## 🎓 Education
 
 **B.Sc. in Computer and Information Sciences**  
@@ -65,7 +73,6 @@ Ain Shams University, Egypt *(2019–2023)*
 - **Information Technology Institute (ITI)** – Full-Stack .NET Development  
 - **Information Technology Institute (ITI)** – Cybersecurity Fundamentals  
 - **Ain Shams University** – Android Development using Java  
-- **Graduation Project:** *Blood Donations Android App* — *Grade: A+*
 
 ---
 
