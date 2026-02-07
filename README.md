@@ -54,11 +54,9 @@ A web-based CRUD system for managing a game catalog, demonstrating MVC design pa
 
 🖼 **Screenshots**
 
-**Home Page**
-<img src="https://drive.google.com/uc?export=view&id=1iA5bzfQWOMwp1ulnpHJx7zZVL83IBvJv" width="800" />
+<img src="https://drive.google.com/uc?export=view&id=1iA5bzfQWOMwp1ulnpHJx7zZVL83IBvJv" width="48%" />
+<img src="https://drive.google.com/uc?export=view&id=1U7ZDfUlfcTtzOcqR7GmkWoQpG174RbRW" width="48%" />
 
-**Game Details Page**
-<img src="https://drive.google.com/uc?export=view&id=1U7ZDfUlfcTtzOcqR7GmkWoQpG174RbRW" width="800" />
 
 
 ---
