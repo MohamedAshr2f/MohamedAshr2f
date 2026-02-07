@@ -52,6 +52,15 @@ A web-based CRUD system for managing a game catalog, demonstrating MVC design pa
 **Tech Stack:** ASP.NET MVC, Entity Framework, SQL Server, Bootstrap  
 🔗 [GitHub Repository](https://github.com/MohamedAshr2f/Game-Store)
 
+🖼 **Screenshots**
+
+**Home Page**
+<img src="https://drive.google.com/uc?export=view&id=1iA5bzfQWOMwp1ulnpHJx7zZVL83IBvJv" width="800" />
+
+**Game Details Page**
+<img src="https://drive.google.com/uc?export=view&id=1U7ZDfUlfcTtzOcqR7GmkWoQpG174RbRW" width="800" />
+
+
 ---
 
 ### 🩸 Blood Donation Mobile App (Graduation Project)
