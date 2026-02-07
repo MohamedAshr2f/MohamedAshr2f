@@ -48,7 +48,7 @@ Includes email services via **MailKit & SMTP**, localization, logging, and xUnit
 
 🖼 **Preview**
 
-<img src="https://drive.google.com/uc?export=view&id=1eoSFIhWAvGeq8_ma_o4BInAxUcUS2Auc" width="800" />
+<img src="https://drive.google.com/uc?export=view&id=1eoSFIhWAvGeq8_ma_o4BInAxUcUS2Auc" width="48%" />
 
 
 ---
