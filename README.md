@@ -42,7 +42,14 @@ Implemented **CQRS**, **Mediator**, **JWT Authentication**, **Fluent Validation*
 Includes email services via **MailKit & SMTP**, localization, logging, and xUnit testing.
 
 **Tech Stack:** ASP.NET Core, Web API, SQL Server, Entity Framework, Clean Architecture, Docker, MailKit, xUnit  
-🔗 [GitHub Repository](https://github.com/MohamedAshr2f/UniversityASP.NET)
+
+🔗 [GitHub Repository](https://github.com/MohamedAshr2f/UniversityASP.NET)  
+🎥 [Live Demo](https://drive.google.com/file/d/1bMx_9rLTKcJgkizuSMMrhT_fEcqx2H1f/view?usp=sharing)
+
+🖼 **Preview**
+
+<img src="https://drive.google.com/uc?export=view&id=1eoSFIhWAvGeq8_ma_o4BInAxUcUS2Auc" width="800" />
+
 
 ---
 
