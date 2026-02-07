@@ -48,7 +48,7 @@ Includes email services via **MailKit & SMTP**, localization, logging, and xUnit
 
 🖼 **Preview**
 
-<img src="https://drive.google.com/uc?export=view&id=1eoSFIhWAvGeq8_ma_o4BInAxUcUS2Auc" width="48%" />
+<img src="https://drive.google.com/uc?export=view&id=1eoSFIhWAvGeq8_ma_o4BInAxUcUS2Auc" width="30%" />
 
 
 ---
@@ -61,8 +61,7 @@ A web-based CRUD system for managing a game catalog, demonstrating MVC design pa
 
 🖼 **Screenshots**
 
-<img src="https://drive.google.com/uc?export=view&id=1iA5bzfQWOMwp1ulnpHJx7zZVL83IBvJv" width="48%" />
-<img src="https://drive.google.com/uc?export=view&id=1U7ZDfUlfcTtzOcqR7GmkWoQpG174RbRW" width="48%" />
+<img src="https://drive.google.com/uc?export=view&id=1iA5bzfQWOMwp1ulnpHJx7zZVL83IBvJv" width="48%" /> <img src="https://drive.google.com/uc?export=view&id=1U7ZDfUlfcTtzOcqR7GmkWoQpG174RbRW" width="48%" />
 
 
 
