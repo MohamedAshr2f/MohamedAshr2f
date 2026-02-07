@@ -72,6 +72,12 @@ A web-based CRUD system for managing a game catalog, demonstrating MVC design pa
 - Android app to facilitate blood donations
 - Real-time database using Firebase  
 - **Grade:** A+
+- 🔗 [GitHub Repository](https://github.com/MohamedAshr2f/Blood-Donation-Application)  
+🎥 [Live Demo](https://drive.google.com/file/d/1A1mHaNDECHU0lTqm9enPAPNm_fNBtnGy/view?usp=sharing)
+🖼 **Preview**
+
+<img src="https://drive.google.com/uc?export=view&id=1lOJZw3Fud9k6PvsMD0BpPHu4k1BEu5BM" width="25%" />
+
 ---
 
 ## 🎓 Education
